@@ -4,6 +4,12 @@ Useful python 2.7 functions and classes for astronomical uses
 Ivano Baronchelli 2018
 
 
+[![DOI](https://zenodo.org/badge/167214108.svg)](https://zenodo.org/badge/latestdoi/167214108)
+
+https://zenodo.org/badge/latestdoi/167214108
+
+
+
 # List of classes:
 
 Deg2sex    
